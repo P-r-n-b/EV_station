@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PN1hlPKvUC36tzo1wmZv-22" value="User1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PN1hlPKvUC36tzo1wmZv-26" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="760" y="85" width="55" height="50" as="geometry" />
